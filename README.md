@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Kiran 👋
 
-<!--
-**6carbon12/6carbon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science student from India passionate about building skills and exploring open source software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Always Learning
+
+I believe consistent small steps make a big difference over time.
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to reach out at [6carbon12@proton.me](mailto:6carbon12@proton.me) — whether it’s to collaborate, ask questions, or just say hi.
+
+---
+
+## ⚡ Fun Fact
+
+I made a deal with the devil.
